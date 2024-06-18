@@ -4,4 +4,4 @@ Check the image in the `Build and push Docker image` step in [build.yaml](.githu
 satisfied that it is a unique image, set the `push` paramater to `true`. You then also remove the `if` property on the
 `Create Octopus Release` step to enable release creation in Octopus.
 
-Generated at 1718672316274
+Generated at 1718746086153
