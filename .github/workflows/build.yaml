@@ -82,6 +82,6 @@ jobs:
 #        env:
 #          OCTOPUS_API_KEY: "${{ secrets.OCTOPUS_API_TOKEN }}"
 #          OCTOPUS_URL: "https://mattc.octopus.app"
-#          OCTOPUS_SPACE: "Github Demo"
+#          OCTOPUS_SPACE: "Youi"
 #        with:
 #          project: "EKS Ratings Service"
